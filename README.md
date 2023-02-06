@@ -5,7 +5,9 @@ This readme.txt file contains notes regarding the Python 3 code
 and sample data which accompany my Master Thesis:
 
 “Fake News Detection using social context and textual data”,
+
 Evangelia Grigoria ZVE
+
 Master’s degree (2nd year) Statistics and Econometrics (Distance Learning)
 
 Toulouse School of Economics / Université Toulouse Capitole 1,
