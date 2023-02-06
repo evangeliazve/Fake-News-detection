@@ -8,8 +8,8 @@ and sample data which accompany my Master Thesis:
 Evangelia Grigoria ZVE
 Master’s degree (2nd year) Statistics and Econometrics (Distance Learning)
 
-Toulouse School of Economics / Université Toulouse Capitole 1
-Academic Year: 2018/2019
+Toulouse School of Economics / Université Toulouse Capitole 1,
+academic Year: 2018/2019
 
 The Python 3 code file, and sample data files, are described
 below.
