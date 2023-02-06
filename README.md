@@ -7,6 +7,7 @@ and sample data which accompany my Master Thesis:
 “Fake News Detection using social context and textual data”,
 Evangelia Grigoria ZVE
 Master’s degree (2nd year) Statistics and Econometrics (Distance Learning)
+
 Toulouse School of Economics / Université Toulouse Capitole 1
 Academic Year: 2018/2019
 
